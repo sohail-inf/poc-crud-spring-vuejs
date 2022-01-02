@@ -13,9 +13,9 @@
 
 ### Require HOST entry  
 
-1. localhost:8001/                            dynamodb-admin 
-2. localhost:8091/                            backend
-3. localhost:8080/passthrough-middleware/     frontend
+1. localhost:8001/                            => dynamodb-admin 
+2. localhost:8091/                            => backend
+3. localhost:8080/passthrough-middleware/     => frontend
 
 #### To run localstack, configuring DynamoDB Admin UI:
 
